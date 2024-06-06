@@ -1,8 +1,9 @@
 import React from 'react'
-import {Link} from "react-router-dom"
+import { Link } from "react-router-dom"
+
 export default function Home() {
   return (
-        <div style={{color: "red",backgroundColor:"lightblue",height:"100vh"}}>
+        <div style={{color: "red",background:"linear-gradient(140deg,rgb(253, 78, 113),yellow)",height:"100vh"}}>
         <center><h1>Home</h1></center>
         <nav style={{color: "black"}}>
             <ol>

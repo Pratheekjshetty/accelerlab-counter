@@ -3,7 +3,7 @@ import { Link } from 'react-router-dom'
 
 export default function Help() {
   return (
-    <div style={{color: "red",backgroundColor:"lightyellow",height:"100vh"}}>
+    <div style={{color: "violet",background:"linear-gradient(140deg,#FFFFE0,darkgoldenrod)",height:"100vh"}}>
         <center><h1>Help</h1></center>
         <nav>
             <ul>
