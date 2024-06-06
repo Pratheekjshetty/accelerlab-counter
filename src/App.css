@@ -1,5 +1,4 @@
-.home{
-  background:linear-gradient(140deg,blue,green,yellow);
-  color:rgb(253, 78, 113)
+li{
+  list-style: square;
 }
 
