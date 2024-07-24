@@ -8,7 +8,7 @@ export default function Layout(props) {
             <ol className='flex justify-start gap-4 text-lg'>
                 <li><Link  to="/home">Home</Link></li>
                 <li><Link to="/about">About</Link></li>
-                <li><Link to="/contact">Contact</Link></li>
+                <li><Link to="/contact">Contact Me</Link></li>
                 <li><Link to="/help">Help</Link></li>
             </ol>
         </nav>
