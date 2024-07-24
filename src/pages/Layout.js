@@ -12,6 +12,7 @@ export default function Layout(props) {
                 <li><Link to="/help">Help</Link></li>
             </ol>
         </nav>
-        <div>{props.children}</div></div>
+        <div>{props.children}</div>
+    </div>
   )
 }
